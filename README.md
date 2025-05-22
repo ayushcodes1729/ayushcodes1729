@@ -1,5 +1,5 @@
 $ whoami  
-> A full-stack developer building cool production-grade end-to-end wesbites in MERN and Nextjs. Currently building cool stuffs and exploring Web3
+> A full-stack developer building cool production-grade end-to-end wesbites in MERN and Nextjs. Currently building cool stuffs and exploring Web3.
 
 $ skills --list  
 > Nextjs, Reactjs, Nodejs, Expressjs, PostgreSQL, MongoDB, Monorepo & Turborepo
@@ -26,7 +26,3 @@ $ GitHub Stats
   <img src="https://github-readme-stats.vercel.app/api?username=ayushcodes1729&show_icons=true&theme=radical">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayushcodes1729&theme=radical">
 </p>
-
-<div align="center">
-  <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWVjenZ0MnNoZmFsMWcyMjFoY3NpYWQyNWdmZGtnNDd3ZThmODM4byZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hRLz2uLh5AX1zPsjOS/giphy.gif" />
-</div>
