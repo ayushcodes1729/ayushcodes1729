@@ -26,13 +26,13 @@ $ projects --top
 
 $ connect with --me  
 <br>
-📧 Email: [ayushtiwari0803@gmail.com](mailto:ayushtiwari0803@gmail.com)
+> 📧 Email: [ayushtiwari0803@gmail.com](mailto:ayushtiwari0803@gmail.com)
 <br>
-**X** (formerly twitter): [@ayushcodesweb](https://x.com/ayushcodesweb)
+> **X** (formerly twitter): [@ayushcodesweb](https://x.com/ayushcodesweb)
 <br>
-🔗 LinkedIn: [alok](https://www.linkedin.com/in/ayushcodes1729/)  
+> 🔗 LinkedIn: [alok](https://www.linkedin.com/in/ayushcodes1729/)  
 <br>
-🌐 Website: [Ayush-Kumar](https://www.ayushcodes.me/)  
+> 🌐 Website: [Ayush-Kumar](https://www.ayushcodes.me/)  
 
 ---
 
