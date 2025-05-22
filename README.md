@@ -1,9 +1,3 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27F7D6&width=435&lines=Konnichiwa+,+Aroku+desu;アンドロメダへようこそ!">
-</h1>
-
----
-
 <div align="center">
   <table>
     <tr>
@@ -31,10 +25,13 @@ $ projects --top
 > ❤️‍🔥 Dev4u- A tinder for developers 🔗 [GitHub](https://github.com/ayushcodes1729/Dev4u-web)  🔗 [Live-Link](https://app.dev4u.live/)
 
 $ connect with --me  
-<br> </br>
+<br>
 📧 Email: [ayushtiwari0803@gmail.com](mailto:ayushtiwari0803@gmail.com)
-**X** X(formerly twitter): [@ayushcodesweb](https://x.com/ayushcodesweb)
+<br>
+**X** (formerly twitter): [@ayushcodesweb](https://x.com/ayushcodesweb)
+<br>
 🔗 LinkedIn: [alok](https://www.linkedin.com/in/ayushcodes1729/)  
+<br>
 🌐 Website: [Ayush-Kumar](https://www.ayushcodes.me/)  
 
 ---
