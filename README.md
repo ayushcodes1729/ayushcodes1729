@@ -1,20 +1,5 @@
-<div align="center">
-  <table>
-    <tr>
-      <td>
-        <img height="250" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTJuMHB5MGpuc2dvNG4zOXl2Y3h6NWtrMzV4ODgybm82OWZkaWlsZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f0BaErqmljUd2/giphy.gif" />
-      </td>
-      <td>
-        <img height="250" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDA2MmliMzBubGphd2lzdDI2M2d1Ym4zOGFhMmY0cnQ2Znp1a3VrdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/mP3bEugFsv01q/giphy.gif" />
-      </td>
-    </tr>
-  </table>
-</div>
-
----
-
 $ whoami  
-> A full-stack developer building cool production-grade end-to-end wesbites in MERN and Nextjs
+> A full-stack developer building cool production-grade end-to-end wesbites in MERN and Nextjs. Currently building cool stuffs and exploring Web3
 
 $ skills --list  
 > Nextjs, Reactjs, Nodejs, Expressjs, PostgreSQL, MongoDB, Monorepo & Turborepo
