@@ -8,7 +8,7 @@ OS: Ubuntu x86_64
 Shell: bash
 Uptime: 20 years
 Processor: Intel® Core™ i5-1035G1 × 8
-RAM: 15309Mib
+RAM: 64000Mib
 Location: Delhi-NCR, India
 Languages: Rust, Typescript, Javascript
 Hobbies: Sketching, Travelling
