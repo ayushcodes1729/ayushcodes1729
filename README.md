@@ -1,5 +1,5 @@
 $ whoami  
-> A techie nerd you might wanna talk or have a coffee.
+> A tech nerd you might want to talk to or have a coffee with.
 
 ```csharp
 ayushcodes1729@github
