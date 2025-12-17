@@ -1,5 +1,5 @@
 $ whoami  
-> A nerd in web3.
+> A techie nerd you might wanna talk or have a coffee.
 
 ```csharp
 ayushcodes1729@github
