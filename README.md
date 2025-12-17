@@ -4,11 +4,11 @@ $ whoami
 ```csharp
 ayushcodes1729@github
 -------------------------
-OS: Ubuntu x86_64
-Shell: bash
-Uptime: 20 years
-Processor: Intel® Core™ i5-1035G1 × 8
-RAM: 64000Mib
+OS: MacOS 15.5
+Shell: zsh
+Uptime: 21 years
+Processor: Apple M4
+RAM: 16384Mib
 Location: Delhi-NCR, India
 Languages: Rust, Typescript, Javascript
 Hobbies: Sketching, Travelling
